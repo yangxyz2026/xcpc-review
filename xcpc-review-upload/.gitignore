@@ -1,0 +1,16 @@
+﻿# Claude 鏈湴璁剧疆锛堝惈绉佸瘑淇℃伅锛屼笉瑕佷笂浼狅級
+.claude/settings.local.json
+
+# 绯荤粺鏂囦欢
+Thumbs.db
+.DS_Store
+desktop.ini
+
+# 涓存椂鏂囦欢
+*.tmp
+~$*.docx
+
+# 编译产物
+*.exe
+*.out
+*.o
